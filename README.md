@@ -1,4 +1,5 @@
 # motioncut1
+# word count in a sentence
 def count_words(sentence):
     if not sentence:
         print("The input is empty. Please enter a valid sentence.")
